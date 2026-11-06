@@ -1,0 +1,3 @@
+tracker,frames,track_rows,seconds,throughput,scope,id_switch
+bytetrack.yaml,30,0,3.3127783000236377,9.05584294602085,decode+infer+track+plot+encode; first-run cost included,별도 GT 매칭 필요
+botsort.yaml,30,0,0.2603581000585109,115.22591382122556,decode+infer+track+plot+encode; first-run cost included,별도 GT 매칭 필요
