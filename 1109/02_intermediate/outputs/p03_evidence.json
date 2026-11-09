@@ -1,0 +1,38 @@
+{
+  "issued_at": {
+    "raw": "2026-11-01",
+    "value": "2026-11-01",
+    "confidence": 96.348068,
+    "bbox": [
+      165,
+      111,
+      342,
+      133
+    ],
+    "coordinate_space": "original_pixels"
+  },
+  "supplier": {
+    "raw": "BLUE CAFE",
+    "value": "BLUE CAFE",
+    "confidence": 96.710472,
+    "bbox": [
+      238,
+      176,
+      396,
+      198
+    ],
+    "coordinate_space": "original_pixels"
+  },
+  "total_amount": {
+    "raw": "27000",
+    "value": 27000,
+    "confidence": 96.260834,
+    "bbox": [
+      183,
+      501,
+      270,
+      523
+    ],
+    "coordinate_space": "original_pixels"
+  }
+}

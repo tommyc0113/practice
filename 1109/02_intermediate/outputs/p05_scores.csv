@@ -1,0 +1,16 @@
+﻿document_id,field,backend,exact,evidence_found,review
+doc01,issued_at,mock,True,True,False
+doc01,supplier,mock,True,True,False
+doc01,total_amount,mock,True,True,False
+doc02,issued_at,mock,True,True,False
+doc02,supplier,mock,True,True,False
+doc02,total_amount,mock,True,True,False
+doc03,issued_at,mock,True,True,False
+doc03,supplier,mock,True,True,False
+doc03,total_amount,mock,True,True,False
+doc04,issued_at,mock,True,True,False
+doc04,supplier,mock,True,True,False
+doc04,total_amount,mock,False,False,True
+doc05,issued_at,mock,True,True,False
+doc05,supplier,mock,True,False,True
+doc05,total_amount,mock,True,True,False

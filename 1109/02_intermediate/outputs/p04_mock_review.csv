@@ -1,0 +1,16 @@
+﻿document_id,backend,field,answer,evidence,evidence_found,review
+doc01,mock,issued_at,2026-11-01,DATE: 2026-11-01,True,False
+doc01,mock,supplier,BLUE CAFE,SUPPLIER: BLUE CAFE,True,False
+doc01,mock,total_amount,27000,TOTAL: 27000,True,False
+doc02,mock,issued_at,2026-11-02,DATE: 2026-11-02,True,False
+doc02,mock,supplier,PINE BOOKS,SUPPLIER: PINE BOOKS,True,False
+doc02,mock,total_amount,18000,TOTAL: 18000,True,False
+doc03,mock,issued_at,2026-11-03,DATE: 2026-11-03,True,False
+doc03,mock,supplier,ALPHA STUDIO,SUPPLIER: ALPHA STUDIO,True,False
+doc03,mock,total_amount,33000,TOTAL: 33000,True,False
+doc04,mock,issued_at,2026-11-04,DATE: 2026-11-04,True,False
+doc04,mock,supplier,NOVA MARKET,SUPPLIER: NOVA MARKET,True,False
+doc04,mock,total_amount,99999,TOTAL: 99999,False,True
+doc05,mock,issued_at,2026-11-05,DATE: 2026-11-05,True,False
+doc05,mock,supplier,LIME LAB,not visible in this crop,False,True
+doc05,mock,total_amount,24000,TOTAL: 24000,True,False
